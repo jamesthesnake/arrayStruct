@@ -4,7 +4,7 @@
 #define STRINGLENGTH 128
 typedef char  String[STRINGLENGTH];
 
-
+//animal name 
 typedef  enum  {
      mammal,
     fish,
